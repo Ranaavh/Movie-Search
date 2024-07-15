@@ -87,4 +87,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 
-Make sure to replace the placeholders (like `your-username` and `your-live-demo-link.com`) with your actual information.
