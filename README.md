@@ -4,6 +4,8 @@
 
 A React-based application utilizing the OMDB API to allow users to search for movies and view detailed information.
 
+Live Link: https://movie-search-projectreact.vercel.app/
+
 ## Features
 
 - **Search Movies**: Enter a movie name to fetch and display a list of movies matching the search query.
