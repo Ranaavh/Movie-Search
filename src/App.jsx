@@ -15,7 +15,7 @@ function App() {
 
   const apiKey = import.meta.env.VITE_API_KEY;
   const fetchMovies = async (query) => {
-    const url = `http://www.omdbapi.com/?s=${query}&apikey=${apiKey}`;
+    const url = `https://www.omdbapi.com/?s=${query}&apikey=${apiKey}`;
 
     const res = await fetch(url);
     const data = await res.json();
